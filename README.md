@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mostlySafeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mostly-safe-casts@deno/mod.js';
+import mostlySafeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mostly-safe-casts@v0.3.0-deno/mod.js';
 ```
 
 #### mostlySafeCasts( \[dtype] )
@@ -106,7 +106,7 @@ var out = mostlySafeCasts( 'foo' );
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@deno/mod.js';
-import mostlySafeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mostly-safe-casts@deno/mod.js';
+import mostlySafeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mostly-safe-casts@v0.3.0-deno/mod.js';
 
 // Get the list of supported array data types:
 var DTYPES = dtypes();
