@@ -154,6 +154,17 @@ for ( i = 0; i < DTYPES.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-convert`][@stdlib/array/convert]</span><span class="delimiter">: </span><span class="description">convert an array to an array of a different data type.</span>
+-   <span class="package-name">[`@stdlib/array-convert-same`][@stdlib/array/convert-same]</span><span class="delimiter">: </span><span class="description">convert an array to the same data type as a second input array.</span>
+-   <span class="package-name">[`@stdlib/array-dtypes`][@stdlib/array/dtypes]</span><span class="delimiter">: </span><span class="description">list of array data types.</span>
+-   <span class="package-name">[`@stdlib/array-safe-casts`][@stdlib/array/safe-casts]</span><span class="delimiter">: </span><span class="description">return a list of array data types to which a provided array data type can be safely cast.</span>
+-   <span class="package-name">[`@stdlib/array-same-kind-casts`][@stdlib/array/same-kind-casts]</span><span class="delimiter">: </span><span class="description">return a list of array data types to which a provided array data type can be safely cast or cast within the same kind.</span>
+-   <span class="package-name">[`@stdlib/ndarray-mostly-safe-casts`][@stdlib/ndarray/mostly-safe-casts]</span><span class="delimiter">: </span><span class="description">return a list of ndarray data types to which a provided ndarray data type can be safely cast and, for floating-point data types, can be downcast.</span>
+
 </section>
 
 <!-- /.related -->
@@ -231,6 +242,20 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-mostly-safe-casts/main/LICENSE
 
 [@stdlib/array/dtypes]: https://github.com/stdlib-js/array-dtypes
+
+<!-- <related-links> -->
+
+[@stdlib/array/convert]: https://github.com/stdlib-js/array-convert
+
+[@stdlib/array/convert-same]: https://github.com/stdlib-js/array-convert-same
+
+[@stdlib/array/safe-casts]: https://github.com/stdlib-js/array-safe-casts
+
+[@stdlib/array/same-kind-casts]: https://github.com/stdlib-js/array-same-kind-casts
+
+[@stdlib/ndarray/mostly-safe-casts]: https://github.com/stdlib-js/ndarray-mostly-safe-casts
+
+<!-- </related-links> -->
 
 </section>
 
